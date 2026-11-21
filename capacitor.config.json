@@ -1,0 +1,8 @@
+{
+  "appId": "com.mynotes.app",
+  "appName": "ملاحظاتي",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
